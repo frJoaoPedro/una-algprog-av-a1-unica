@@ -59,28 +59,6 @@ public class A1provaAlgprog{
             }
 
         }
-
-
-
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         sc.close();
 
     }
